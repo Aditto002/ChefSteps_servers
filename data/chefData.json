@@ -78,14 +78,14 @@
         "categories_id": "6",
       "recipe_name": "Chocolate Chip Cookies",
       "ingredients": [
-        "2 1/4 cups all-purpose flour",
-        "1 tsp baking soda",
-        "1 tsp salt",
-        "1 cup unsalted butter, softened",
+        "2 1/4 cups all-purpose flour,",
+        "1 tsp baking soda,",
+        "1 tsp salt,",
+        "1 cup unsalted butter, softened,",
         "3/4 cup white sugar"
       ],
-        "image": "https://img.freepik.com/free-photo/cook-putting-vegetable-plate-with-salad_23-2148040235.jpg?size=626&ext=jpg&ga=GA1.1.1354603693.1683004017&semt=robertav1_2_sidr",
-      "cooking_method": "1. Preheat the oven to 375°F (190°C).\n2. In a medium bowl, whisk together the flour, baking soda, and salt.\n3. In a large bowl, beat the butter and sugar together until light and fluffy.\n4. Add the eggs, one at a time, and beat until well combined.\n5. Gradually add the flour mixture to the butter mixture, stirring until well combined.\n6. Stir in the chocolate chips.\n7. Drop spoonfuls of dough onto a baking sheet.\n8. Bake for 8-10 minutes, until lightly golden brown.\n9. Let cool on the baking sheet for 5 minutes before transferring to a wire rack to cool completely.",
+        "image": "https://img.freepik.com/free-photo/top-view-food-frame-with-copy-space_23-2148723447.jpg?size=626&ext=jpg&ga=GA1.1.1354603693.1683004017&semt=robertav1_2_sidr",
+      "cooking_method": "Preheat the oven to 375°F (190°C).In a medium bowl, whisk together the flour, baking soda, and salt.In a large bowl, beat the butter and sugar together until light and fluffy.Add the eggs, one at a time, and beat until well combined. Gradually add the flour mixture to the butter mixture, stirring until well combined.Stir in the chocolate chips.Drop spoonfuls of dough onto a baking sheet.Bake for 8-10 minutes, until lightly golden brown.Let cool on the baking sheet for 5 minutes before transferring to a wire rack to cool completely.",
       "rating": 4.9,
       "_id":"a6"
     },
@@ -93,14 +93,14 @@
     "categories_id": "1",
       "recipe_name": "Spaghetti Carbonara",
       "ingredients": [
-        "1 lb spaghetti",
-        "6 oz pancetta or bacon, diced",
-        "4 large egg yolks",
-        "1 cup freshly grated Parmesan cheese",
+        "1 lb spaghetti,",
+        "6 oz pancetta or bacon, diced,",
+        "4 large egg yolks,",
+        "1 cup freshly grated Parmesan cheese,",
         "1/2 tsp black pepper"
       ],
-      "image": "https://img.freepik.com/free-photo/cook-putting-vegetable-plate-with-salad_23-2148040235.jpg?size=626&ext=jpg&ga=GA1.1.1354603693.1683004017&semt=robertav1_2_sidr",
-      "cooking_method": "1. Cook the spaghetti in a large pot of boiling salted water until al dente.\n2. While the pasta is cooking, cook the pancetta or bacon in a large skillet over medium heat until crisp.\n3. In a bowl, whisk together the egg yolks, Parmesan cheese, and black pepper.\n4. Drain the spaghetti and add it to the skillet with the pancetta or bacon. Remove the skillet from the heat.\n5. Quickly pour the egg mixture over the spaghetti and toss well to coat.\n6. Serve immediately, topped with additional Parmesan cheese and black pepper, if desired.",
+      "image": "https://img.freepik.com/free-photo/top-view-food-frame-with-copy-space_23-2148723447.jpg?size=626&ext=jpg&ga=GA1.1.1354603693.1683004017&semt=robertav1_2_sidr",
+      "cooking_method": "Cook the spaghetti in a large pot of boiling salted water until al dente.While the pasta is cooking, cook the pancetta or bacon in a large skillet over medium heat until crisp.In a bowl, whisk together the egg yolks, Parmesan cheese, and black pepper.Drain the spaghetti and add it to the skillet with the pancetta or bacon. Remove the skillet from the heat. Quickly pour the egg mixture over the spaghetti and toss well to coat.Serve immediately, topped with additional Parmesan cheese and black pepper, if desired.",
       "rating": 4.7,
       "_id":"a7"
     },
@@ -108,14 +108,14 @@
         "categories_id": "2",
       "recipe_name": "Guacamole",
       "ingredients": [
-        "3 ripe avocados",
-        "1/2 red onion, finely chopped",
-        "1 jalapeño pepper, seeded and finely chopped",
-        "2 cloves garlic, minced",
+        "3 ripe avocados,",
+        "1/2 red onion, finely chopped,",
+        "1 jalapeño pepper, seeded and finely chopped,",
+        "2 cloves garlic, minced,",
         "Juice of 1 lime"
       ],
-      "image": "https://img.freepik.com/free-photo/cook-putting-vegetable-plate-with-salad_23-2148040235.jpg?size=626&ext=jpg&ga=GA1.1.1354603693.1683004017&semt=robertav1_2_sidr",
-      "cooking_method": "1. Cut the avocados in half and remove the pits.\n2. Scoop the flesh into a bowl and mash with a fork.\n3. Add the chopped red onion, jalapeño pepper, garlic, and lime juice to the bowl.\n4. Mix well to combine.\n5. Season with salt and pepper to taste.\n6. Serve immediately, garnished with chopped cilantro if desired.",
+      "image": "https://img.freepik.com/premium-photo/chicken-meat-french-fries-vegetables-salad-are-wrapped-pita-bread-brown-wall-traditional-shawarma-side-view-copy-space_166116-3016.jpg?size=626&ext=jpg&ga=GA1.2.1354603693.1683004017&semt=robertav1_2_sidr",
+      "cooking_method": "Cut the avocados in half and remove the pits.Scoop the flesh into a bowl and mash with a fork.Add the chopped red onion, jalapeño pepper, garlic, and lime juice to the bowl. Mix well to combine.Season with salt and pepper to taste.Serve immediately, garnished with chopped cilantro if desired.",
       "rating": 4.9,
       "_id": "a8"
     },
@@ -123,14 +123,14 @@
         "categories_id": "3",
       "recipe_name": "Roasted Chicken",
       "ingredients": [
-        "1 whole chicken",
-        "4 cloves garlic, minced",
-        "2 tbsp olive oil",
-        "1 tsp dried thyme",
+        "1 whole chicken,",
+        "4 cloves garlic, minced,",
+        "2 tbsp olive oil,",
+        "1 tsp dried thyme,",
         "1 tsp paprika"
       ],
-      "image": "https://img.freepik.com/free-photo/cook-putting-vegetable-plate-with-salad_23-2148040235.jpg?size=626&ext=jpg&ga=GA1.1.1354603693.1683004017&semt=robertav1_2_sidr",
-      "cooking_method": "1. Preheat the oven to 425°F (220°C).\n2. In a small bowl, mix together the garlic, olive oil, thyme, and paprika.\n3. Rub the mixture all over the chicken.\n4. Place the chicken in a roasting pan and roast for 1 hour, or until the internal temperature reaches 165°F (75°C).\n5. Let the chicken rest for 10 minutes before carving and serving.",
+      "image": "https://img.freepik.com/premium-photo/chicken-meat-french-fries-vegetables-salad-are-wrapped-pita-bread-brown-wall-traditional-shawarma-side-view-copy-space_166116-3016.jpg?size=626&ext=jpg&ga=GA1.2.1354603693.1683004017&semt=robertav1_2_sidr",
+      "cooking_method": "Preheat the oven to 425°F (220°C).In a small bowl, mix together the garlic, olive oil, thyme, and paprika.Rub the mixture all over the chicken.Place the chicken in a roasting pan and roast for 1 hour, or until the internal temperature reaches 165°F (75°C). Let the chicken rest for 10 minutes before carving and serving.",
       "rating": 4.5,
       "_id": "a9"
     },
@@ -138,13 +138,13 @@
         "categories_id": "4",
       "recipe_name": "Caprese Salad",
       "ingredients": [
-        "3 large ripe tomatoes, sliced",
-        "8 oz fresh mozzarella cheese, sliced",
-        "1/4 cup fresh basil leaves",
-        "2 tbsp balsamic vinegar",
+        "3 large ripe tomatoes, sliced,",
+        "8 oz fresh mozzarella cheese, sliced,",
+        "1/4 cup fresh basil leaves,",
+        "2 tbsp balsamic vinegar,",
         "2 tbsp olive oil"
       ],
-      "image": "https://img.freepik.com/free-photo/cook-putting-vegetable-plate-with-salad_23-2148040235.jpg?size=626&ext=jpg&ga=GA1.1.1354603693.1683004017&semt=robertav1_2_sidr",
+      "image": "https://img.freepik.com/premium-photo/chicken-meat-french-fries-vegetables-salad-are-wrapped-pita-bread-brown-wall-traditional-shawarma-side-view-copy-space_166116-3016.jpg?size=626&ext=jpg&ga=GA1.2.1354603693.1683004017&semt=robertav1_2_sidr",
       "cooking_method": " Arrange the tomato and mozzarella slices on a large platter.Sprinkle the basil leaves over the top.In a small bowl, whisk together the balsamic vinegar and olive oil. Drizzle the dressing over the salad.",
       "rating": 4.5,
       "_id": "a10"
@@ -153,14 +153,14 @@
     "categories_id": "1",
       "recipe_name": "Spaghetti Carbonara",
       "ingredients": [
-        "1 lb spaghetti",
-        "6 oz pancetta or bacon, diced",
-        "4 large egg yolks",
-        "1 cup freshly grated Parmesan cheese",
-        "1/2 tsp black pepper"
+        "1 lb spaghetti,",
+        "6 oz pancetta or bacon, diced,",
+        "4 large egg yolks,",
+        "1 cup freshly grated Parmesan cheese,",
+        "1/2 tsp black pepper,"
       ],
-      "image": "https://img.freepik.com/free-photo/cook-putting-vegetable-plate-with-salad_23-2148040235.jpg?size=626&ext=jpg&ga=GA1.1.1354603693.1683004017&semt=robertav1_2_sidr",
-      "cooking_method": "1. Cook the spaghetti in a large pot of boiling salted water until al dente.\n2. While the pasta is cooking, cook the pancetta or bacon in a large skillet over medium heat until crisp.\n3. In a bowl, whisk together the egg yolks, Parmesan cheese, and black pepper.\n4. Drain the spaghetti and add it to the skillet with the pancetta or bacon. Remove the skillet from the heat.\n5. Quickly pour the egg mixture over the spaghetti and toss well to coat.\n6. Serve immediately, topped with additional Parmesan cheese and black pepper, if desired.",
+      "image": "https://img.freepik.com/premium-photo/chicken-meat-french-fries-vegetables-salad-are-wrapped-pita-bread-brown-wall-traditional-shawarma-side-view-copy-space_166116-3016.jpg?size=626&ext=jpg&ga=GA1.2.1354603693.1683004017&semt=robertav1_2_sidr",
+      "cooking_method": "Cook the spaghetti in a large pot of boiling salted water until al dente.While the pasta is cooking, cook the pancetta or bacon in a large skillet over medium heat until crisp. In a bowl, whisk together the egg yolks, Parmesan cheese, and black pepper.Drain the spaghetti and add it to the skillet with the pancetta or bacon. Remove the skillet from the heat. Quickly pour the egg mixture over the spaghetti and toss well to coat.Serve immediately, topped with additional Parmesan cheese and black pepper, if desired.",
       "rating": 4.7,
       "_id": "a11"
     },
