@@ -3,14 +3,14 @@
         "categories_id": "1",
       "recipe_name": "Spaghetti Carbonara",
       "ingredients": [
-        "8 oz spaghetti",
-        "4 slices bacon, diced",
-        "1/2 cup grated Parmesan cheese",
-        "2 eggs",
+        "8 oz spaghetti,",
+        "4 slices bacon, diced,",
+        "1/2 cup grated Parmesan cheese,",
+        "2 eggs,",
         "2 cloves garlic, minced"
       ],
-       "image": "https://img.freepik.com/free-photo/cook-putting-vegetable-plate-with-salad_23-2148040235.jpg?size=626&ext=jpg&ga=GA1.1.1354603693.1683004017&semt=robertav1_2_sidr",
-      "cooking_method": "1. Cook the spaghetti according to package directions. Reserve 1/2 cup of the pasta water before draining.\n2. In a large skillet, cook the bacon over medium heat until crispy, about 8 minutes.\n3. Add the garlic to the skillet and cook for an additional 30 seconds.\n4. In a small bowl, beat the eggs and Parmesan cheese together.\n5. Remove the skillet from the heat and add the cooked spaghetti and egg mixture. Toss to combine, adding reserved pasta water as needed to create a creamy sauce.\n6. Serve immediately.",
+       "image": "https://img.freepik.com/free-photo/penne-pasta-tomato-sauce-with-chicken-tomatoes-wooden-table_2829-19744.jpg?size=626&ext=jpg&ga=GA1.1.1354603693.1683004017&semt=robertav1_2_sidr",
+      "cooking_method": "Cook the spaghetti according to package directions. Reserve 1/2 cup of the pasta water before draining. In a large skillet, cook the bacon over medium heat until crispy, about 8 minutes. Add the garlic to the skillet and cook for an additional 30 seconds. In a small bowl, beat the eggs and Parmesan cheese together.Remove the skillet from the heat and add the cooked spaghetti and egg mixture. Toss to combine, adding reserved pasta water as needed to create a creamy sauce.\n6. Serve immediately.",
       "rating": 4.9,
       "_id": "a1"
     },
@@ -18,14 +18,14 @@
         "categories_id": "2",
       "recipe_name": "Roasted Brussels Sprouts",
       "ingredients": [
-        "1 lb Brussels sprouts, trimmed and halved",
-        "2 tbsp olive oil",
-        "1/2 tsp salt",
-        "1/4 tsp black pepper",
+        "1 lb Brussels sprouts, trimmed and halved,",
+        "2 tbsp olive oil,",
+        "1/2 tsp salt,",
+        "1/4 tsp black pepper,",
         "2 cloves garlic, minced"
       ],
-      "image": "https://img.freepik.com/free-photo/cook-putting-vegetable-plate-with-salad_23-2148040235.jpg?size=626&ext=jpg&ga=GA1.1.1354603693.1683004017&semt=robertav1_2_sidr",
-      "cooking_method": "1. Preheat the oven to 400°F (200°C).\n2. In a large bowl, toss the Brussels sprouts with the olive oil, salt, pepper, and garlic until well coated.\n3. Spread the Brussels sprouts in a single layer on a baking sheet.\n4. Roast for 20-25 minutes, until tender and lightly browned.\n5. Serve immediately.",
+      "image": "https://img.freepik.com/premium-photo/chicken-dhum-biriyani-using-jeera-rice-spices-arranged-earthen-ware_527904-513.jpg?size=626&ext=jpg&ga=GA1.1.1354603693.1683004017&semt=robertav1_2_sidr",
+      "cooking_method": "Preheat the oven to 400°F (200°C).In a large bowl, toss the Brussels sprouts with the olive oil, salt, pepper, and garlic until well coated.Spread the Brussels sprouts in a single layer on a baking sheet.Roast for 20-25 minutes, until tender and lightly browned.\n5. Serve immediately.",
       "rating": 4.5,
       "_id": "a2"
     },
@@ -33,14 +33,14 @@
         "categories_id": "3",
       "recipe_name": "Beef Stroganoff",
       "ingredients": [
-        "1 lb beef sirloin, cut into thin strips",
-        "1 onion, sliced",
-        "2 cloves garlic, minced",
-        "1 cup sliced mushrooms",
+        "1 lb beef sirloin, cut into thin strips,",
+        "1 onion, sliced,",
+        "2 cloves garlic, minced,",
+        "1 cup sliced mushrooms,",
         "1 cup beef broth"
       ],
-      "image": "https://img.freepik.com/free-photo/cook-putting-vegetable-plate-with-salad_23-2148040235.jpg?size=626&ext=jpg&ga=GA1.1.1354603693.1683004017&semt=robertav1_2_sidr",
-      "cooking_method": "1. In a large skillet over medium-high heat, cook the beef until browned on all sides, about 5-7 minutes. Remove the beef from the skillet and set aside.\n2. In the same skillet, sauté the onion, garlic, and mushrooms until tender, about 5 minutes.\n3. Add the beef back to the skillet and pour in the beef broth.\n4. Bring to a boil, then reduce the heat and simmer for 15-20 minutes, until the sauce has thickened.\n5. Serve over cooked egg noodles.",
+      "image": "https://img.freepik.com/premium-photo/penne-pasta-tomato-sauce-with-meat-tomatoes-decorated-with-pea-sprouts-dark-table_2829-3411.jpg?size=626&ext=jpg&ga=GA1.1.1354603693.1683004017&semt=robertav1_2_sidr",
+      "cooking_method": "In a large skillet over medium-high heat, cook the beef until browned on all sides, about 5-7 minutes. Remove the beef from the skillet and set aside.In the same skillet, sauté the onion, garlic, and mushrooms until tender, about 5 minutes.Add the beef back to the skillet and pour in the beef broth.Bring to a boil, then reduce the heat and simmer for 15-20 minutes, until the sauce has thickened.\n5. Serve over cooked egg noodles.",
       "rating": 4.6,
       "_id": "a3"
     },
@@ -48,14 +48,14 @@
     "categories_id": "4",
       "recipe_name": "Chicken Fajitas",
       "ingredients": [
-        "1 lb boneless, skinless chicken breasts, sliced",
-        "1 onion, sliced",
-        "1 green bell pepper, sliced",
-        "1 red bell pepper, sliced",
+        "1 lb boneless, skinless chicken breasts, sliced, ",
+        "1 onion, sliced, ",
+        "1 green bell pepper, sliced, ",
+        "1 red bell pepper, sliced, ",
         "2 tbsp olive oil"
       ],
-      "image": "https://img.freepik.com/free-photo/cook-putting-vegetable-plate-with-salad_23-2148040235.jpg?size=626&ext=jpg&ga=GA1.1.1354603693.1683004017&semt=robertav1_2_sidr",
-      "cooking_method": "1. In a large skillet over medium-high heat, cook the chicken until browned on all sides, about 5-7 minutes. Remove the chicken from the skillet and set aside.\n2. In the same skillet, sauté the onion and peppers until tender, about 5 minutes.\n3. Add the chicken back to the skillet and toss with the vegetables.\n4. Serve with warm tortillas and your choice of toppings.",
+      "image": "https://img.freepik.com/premium-photo/indian-hindu-veg-thali-food-platter-selective-focus_466689-35126.jpg?size=626&ext=jpg&ga=GA1.2.1354603693.1683004017&semt=robertav1_2_sidr",
+      "cooking_method": "In a large skillet over medium-high heat, cook the chicken until browned on all sides, about 5-7 minutes. Remove the chicken from the skillet and set aside.In the same skillet, sauté the onion and peppers until tender, about 5 minutes.Add the chicken back to the skillet and toss with the vegetables.Serve with warm tortillas and your choice of toppings.",
       "rating": 4.8,
       "_id": "a4"
     },
@@ -63,14 +63,14 @@
         "categories_id": "5",
       "recipe_name": "Classic Caesar Salad",
       "ingredients": [
-        "1 head romaine lettuce, chopped",
-        "1/4 cup grated Parmesan cheese",
-        "1/2 cup croutons",
-        "1/4 cup olive oil",
-        "2 tbsp lemon juice"
+        "1 head romaine lettuce, chopped, ",
+        "1/4 cup grated Parmesan cheese, ",
+        "1/2 cup croutons ,",
+        "1/4 cup olive oil, ",
+        "2 tbsp lemon juice."
       ],
-       "image": "https://img.freepik.com/free-photo/cook-putting-vegetable-plate-with-salad_23-2148040235.jpg?size=626&ext=jpg&ga=GA1.1.1354603693.1683004017&semt=robertav1_2_sidr",
-      "cooking_method": "1. In a large bowl, toss the chopped lettuce with the olive oil and lemon juice until well coated.\n2. Add the Parmesan cheese and croutons and toss to combine.\n3. Serve immediately.",
+       "image": "https://img.freepik.com/free-photo/top-view-table-full-delicious-food-composition_23-2149141352.jpg?size=626&ext=jpg&ga=GA1.2.1354603693.1683004017&semt=robertav1_2_sidr",
+      "cooking_method": "In a large bowl, toss the chopped lettuce with the olive oil and lemon juice until well coated.Add the Parmesan cheese and croutons and toss to combine.Serve immediately.",
       "rating": 4.4,
       "_id": "a5"
     },
